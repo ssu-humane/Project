@@ -1,1 +1,12 @@
-# Project
+Project
+====================
+<br>
+
+1. [관세청_경진대회](https://github.com/ssu-humane/Project/tree/main/%EA%B4%80%EC%84%B8%EC%B2%AD_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+     - 210621 ~ 210716
+     <br>
+     
+2. [케라스_개인프로젝트](https://github.com/ssu-humane/Project/tree/main/%EC%BC%80%EB%9D%BC%EC%8A%A4_%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+     - 210806
+     - '케라스 창시자에게 배운 딥러닝' 책을 공부한 후, 각자 keras를 사용해 2주간 진행
+     <br>
